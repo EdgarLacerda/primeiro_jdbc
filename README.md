@@ -24,4 +24,6 @@ Este projeto foi essencial para reforçar conceitos fundamentais de **JDBC**, co
 - Conexão e desconexão segura com o banco;  
 - Uso de `Statement` e `PreparedStatement`;  
 - Execução e tratamento de consultas SQL;  
-- Estruturação de um código limpo e reutilizável.  
+- Estruturação de um código limpo e reutilizável.
+
+- 👉 Para acessar o código, clique em branches!!!!.
